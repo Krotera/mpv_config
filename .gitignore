@@ -1,0 +1,5 @@
+# Private files
+*.unpublished
+
+# Linux icon files
+.directory
